@@ -3,7 +3,7 @@ const Home = () => {
   <h1>Home Page</h1>
   <h2>Behold! My resume</h2>
     <object data="Resume.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display pdf <a href="Resume.pdf">Download Instead</a></p>
+      <p>Unable to display pdf <a href="Resume.pdf">Download Instead</a>. Or, check out https://github.com/TheAustinChan/ac-portfolio/blob/master/src/pages/Resume.pdf</p>
     </object>
   </>);
 };

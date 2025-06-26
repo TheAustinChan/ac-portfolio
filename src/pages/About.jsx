@@ -4,6 +4,8 @@ const About = () => {
         Although I have my stronger and weaker domains, I consider myself a beginner in all, and passionate for all
         domains of Software.
         For more about my education and my skills, check out the home tab!
+
+        Want to connect? Here's my linkedin: https://www.linkedin.com/in/austin-chan-965528216/
     </p>
     </>);
 };
