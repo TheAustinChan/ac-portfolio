@@ -27,7 +27,6 @@ In other words, it’s a catch-all route — like a 404 Not Found page.*/
         </Route>
       </Routes>
     </BrowserRouter>
-    <hr/>
     </>
   );
 }
